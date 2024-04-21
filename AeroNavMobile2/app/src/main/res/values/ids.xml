@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <item name="name" type="id">name</item>
+    <item name="date" type="id">23-10-2024</item>
+    <item name="duration" type="id">15</item>
+    <item name="itineraryRecyclerView" type="id">something</item>
 </resources>
